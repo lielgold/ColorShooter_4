@@ -4,7 +4,7 @@ This is a brief 15-minute color-changing FPS game created using Unreal Engine 5.
 
 ![Screenshot1](Static/screenshot.png?raw=true "Title")
 
-![Screenshot2](Static/manual.png?raw=true "Title")
+![Screenshot2](Static/Manual.png?raw=true "Title")
 
 Controls:
 Wasd + mouse - movement
