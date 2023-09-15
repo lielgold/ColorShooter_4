@@ -20,4 +20,4 @@ Q - slow motion
 
 ESC - exit game
 
-You can open it in the UE Editor, or try the Windows version over [here](https://mega.nz/file/Lw5hFZZb#rKJXFp2-o6iZWxxZussmQG3_x4r6KM9-Q2gn3hzue8I).
+You can open it in the UE Editor, or try the Windows version over [here](https://drive.google.com/file/d/1U7QLMxeYusdfe8TUMKrvKjkKA6ViNHm1/view?usp=sharing).
